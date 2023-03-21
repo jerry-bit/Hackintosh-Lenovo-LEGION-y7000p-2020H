@@ -6,3 +6,4 @@ CPU: i7-10875H<br>需要自己添加机型信息:)
 ![截屏2023-02-26 19 07 58](https://user-images.githubusercontent.com/52237728/221407016-76f04da7-94a3-4ec6-9d88-8c2fdd0e708b.png) -->
 <div align=center><img src="https://user-images.githubusercontent.com/52237728/221407012-7a83ad2e-19ce-44f6-8770-fb1d10e54454.png"></div>
 <div align=center><img src="https://user-images.githubusercontent.com/52237728/221407016-76f04da7-94a3-4ec6-9d88-8c2fdd0e708b.png"></div>
+<div align=center>HomePage<img src="https://a.iridescent-lrj.xyz"></div>
