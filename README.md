@@ -6,5 +6,12 @@ CPU: i7-10875H<br>需要自己添加机型信息:)
 ![截屏2023-02-26 19 07 58](https://user-images.githubusercontent.com/52237728/221407016-76f04da7-94a3-4ec6-9d88-8c2fdd0e708b.png) -->
 <div align=center><img src="https://user-images.githubusercontent.com/52237728/221407012-7a83ad2e-19ce-44f6-8770-fb1d10e54454.png"></div>
 <div align=center><img src="https://user-images.githubusercontent.com/52237728/221407016-76f04da7-94a3-4ec6-9d88-8c2fdd0e708b.png"></div>
+
+<br>
+##2023.04.10 UPDATE
+可以成功通过“设置-通用-软件更新”更新至13.3.1版本，更新后在原有配置下，Wi-Fi启动速度明显快于之前（30s内），暂未发现其他问题。<br>
+You can successfully update to version 13.3.1 through "Settings General Software Update". After the update, under the original configuration, the Wi Fi startup speed is significantly faster than before (within 30 seconds), and no other issues have been found yet.<br>
+
+<br>
 <div align=center>
 <a href="https://a.iridescent-lrj.xyz/" target="_blank"><center><span style="font-size: 12px">Jerry's HomePage</span></center></a></div>
