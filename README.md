@@ -14,8 +14,8 @@ You can successfully update to version 13.3.1 through "Settings General Software
 
 <br>
 ##2023.06.24 UPDATE
-可以成功通过“设置-通用-软件更新”更新至13.4.1版本，更新后在原有配置下，Wi-Fi启动速度明显快于之前（开机即用），暂未发现其他问题。<br>
-You can successfully update to version 13.3.1 through "Settings General Software Update". After the update, under the original configuration, the Wi Fi startup speed is significantly faster than before (within 5 seconds), and no other issues have been found yet.<br>
+可以成功通过“设置-通用-软件更新”更新至13.4.1版本，更新后在原有配置下，Wi-Fi启动速度明显快于之前（开机即用），将OC更新至0.9.3版本后可以调节屏幕亮度，暂未发现其他问题。<br>
+You can successfully update to version 13.3.1 through "Settings General Software Update". After the update, under the original configuration, the Wi Fi startup speed is significantly faster than before (within 5 seconds). After updating OC to version 0.9.3, you can adjust the screen brightness. no other issues have been found yet.<br>
 
 <br>
 <div align=center>
