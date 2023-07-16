@@ -1,4 +1,5 @@
 # Hackintosh-Lenovo-LEGION-y7000p-2020H
+## <a href="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/releases" target="_blank"><center><span style="font-size: 12px">下载稳定版，适用于Ventura13.2-13.4.1(c)</span></center></a>
 拯救者y7000p-2020H专用黑苹果EFI，不能更新系统，隔空投送暂不可用，不能调节屏幕亮度(将OC更新至0.9.3版本后可以调节屏幕亮度)，触摸板偶发性失效，一般重启解决问题，其他一切正常(启动Wi-Fi可能需要1～2分钟)。<br>
 Lenovo legion 7000p-2020H dedicated Black Apple EFI, can't update the system, airdrop is temporarily unavailable, occasional failure of the touchpad, usually solved by restarting, can't adjust the screen brightness(after updating OC to version 0.9.3, you can adjust the screen brightness.), everything else is normal.<br>
 CPU: i7-10875H<br>需要自己添加机型信息:)
