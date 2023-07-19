@@ -46,8 +46,15 @@ You can successfully update to version 13.3.1 through "Settings General Software
 可以成功通过“设置-通用-软件更新”更新至13.3.1版本，更新后在原有配置下，Wi-Fi启动速度明显快于之前（30s内），暂未发现其他问题。<br>
 You can successfully update to version 13.3.1 through "Settings General Software Update". After the update, under the original configuration, the Wi Fi startup speed is significantly faster than before (within 30 seconds), and no other issues have been found yet.<br>
 
-<div align=center><img src="https://user-images.githubusercontent.com/52237728/221407012-7a83ad2e-19ce-44f6-8770-fb1d10e54454.png"></div>
-<div align=center><img src="https://user-images.githubusercontent.com/52237728/221407016-76f04da7-94a3-4ec6-9d88-8c2fdd0e708b.png"></div>
+
+<div align=center><img src="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/assets/52237728/6b6dd9db-0eb9-4c81-8a00-848f357ae8cd"></div>
+
+
+<div align=center><img src="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/assets/52237728/0989aa38-e0ef-4508-b600-375e8ab09d32"></div>
+
+
+
+
 
 <br>
 <div align=center>
