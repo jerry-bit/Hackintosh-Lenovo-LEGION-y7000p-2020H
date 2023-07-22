@@ -15,7 +15,7 @@
 - [x] 休眠 睡眠 💤Sleep
 - [x] WiFi&有线网络 🛜WiFi& wired network
 - [x] Bluetooth ✂️
-- [x] 屏蔽独显NVIDIA RTX2060 🚫Shielded graphics card NVIDIA RTX2060
+- [x] 屏蔽独显NVIDIA RTX2060 🚫Shielded graphic card NVIDIA RTX2060
 - [x] 硬盘（建议使用Tuxera挂载NTFS硬盘）（未屏蔽pm981） 💾drive (Tuxera is recommended to mount NTFS drive) (unmasked pm981)
 - [x] USB-A（USB-C未知） 📲USB-A (USB-C unknown)
 - [ ] HDMI 
