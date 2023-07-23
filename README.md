@@ -1,5 +1,5 @@
 # Hackintosh-Lenovo-LEGION-y7000p-2020H
-## <a href="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/releases" target="_blank"><span style="font-size: 12px">🚀The Latest Version for Ventura13.2-13.4.1(c)</span></a>
+## <a href="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/releases" target="_blank"><span style="font-size: 12px">🚀The Latest Version for Ventura13.2-13.4.1(c) - OpenCore v.0.9.3</span></a>
 
 
 ### 硬件适配 Hardware adaptation
