@@ -1,7 +1,7 @@
 # Hackintosh-Lenovo-LEGION-y7000p-2020H
 ### <a href="https://github.com/xiaoMGitHub/LEGION_Y7000Series_Insyde_Advanced_Settings_Tools/releases" target="_blank"><span style="font-size: 12px">🚀一键修改BIOS</span></a>
 ### <a href="https://cloud.iridescent-lrj.xyz/s/X8U2" target="_blank"><span style="font-size: 12px">🚀似乎是要刷写的BIOS(不确定)此链接于8月22日前有效</span></a>
-## <a href="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/releases" target="_blank"><span style="font-size: 12px">🚀The Latest Version for Ventura13.2-13.4.1(c) - OpenCore v.0.9.3</span></a>
+## <a href="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/releases" target="_blank"><span style="font-size: 12px">🚀The Latest Version for Ventura13.2-13.5 - OpenCore v.0.9.3</span></a>
 
 
 ### 硬件适配 Hardware adaptation
@@ -32,6 +32,11 @@ CPU: i7-10875H<br>需要自己添加机型信息:)
 ![截屏2023-02-26 19 07 58](https://user-images.githubusercontent.com/52237728/221407016-76f04da7-94a3-4ec6-9d88-8c2fdd0e708b.png) -->
 <br>
 
+## DO NOT INSTALL THESE UPDATES
+![Uploading 屏幕截图 2023-07-25 211439.png…]()
+
+
+<br>
 ### 请在系统设置中更新至macOS13.5
 <br>
 
