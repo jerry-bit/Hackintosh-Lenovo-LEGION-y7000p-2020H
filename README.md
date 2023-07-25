@@ -33,10 +33,12 @@ CPU: i7-10875H<br>需要自己添加机型信息:)
 <br>
 
 ## DO NOT INSTALL THESE UPDATES
-![Uploading 屏幕截图 2023-07-25 211439.png…]()
+![屏幕截图 2023-07-25 211439](https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/assets/52237728/44e87396-267d-4ae9-b540-c0c6b59e0a44)
+
 
 
 <br>
+
 ### 请在系统设置中更新至macOS13.5
 <br>
 
