@@ -32,6 +32,7 @@ CPU: i7-10875H<br>需要自己添加机型信息:)
 ![截屏2023-02-26 19 07 58](https://user-images.githubusercontent.com/52237728/221407016-76f04da7-94a3-4ec6-9d88-8c2fdd0e708b.png) -->
 
 <br>
+
 ### 请在系统设置中更新至macOS13.5
 
 
