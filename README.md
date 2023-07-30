@@ -2,6 +2,7 @@
 ### <a href="https://github.com/xiaoMGitHub/LEGION_Y7000Series_Insyde_Advanced_Settings_Tools/releases" target="_blank"><span style="font-size: 12px">🚀y7000p一键修改BIOS</span></a>
 ### <a href="https://cloud.iridescent-lrj.xyz/s/X8U2" target="_blank"><span style="font-size: 12px">🚀定制的BIOS，此链接于8月22日前有效</span></a>
 ## <a href="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/releases" target="_blank"><span style="font-size: 12px">🚀The Latest Version for Ventura13.2-13.5 - OpenCore v.0.9.3</span></a>
+### （近期的releases均已添加三码）
 
 
 ### 硬件适配 Hardware adaptation
