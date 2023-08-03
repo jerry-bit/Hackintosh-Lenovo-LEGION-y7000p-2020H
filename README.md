@@ -4,6 +4,7 @@
 ## <a href="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/releases" target="_blank"><span style="font-size: 12px">🚀The Latest Version for Ventura13.2-13.5 - OpenCore v.0.9.3</span></a>
 ### （近期的releases均已添加三码）
 
+<br>
 
 ### 硬件适配 Hardware adaptation
 
