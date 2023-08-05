@@ -6,6 +6,7 @@
 
 <br>
 
+
 ### 硬件适配 Hardware adaptation
 
 - [x] 触控板 🖱️Trackpad
