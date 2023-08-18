@@ -8,6 +8,7 @@
 
 ### 硬件适配 Hardware adaptation
 
+
 - [x] 触控板 🖱️Trackpad
 - [x] 键盘 ⌨️Keyboard
 - [x] 数字小键盘 ⌨️Numeric keypad
