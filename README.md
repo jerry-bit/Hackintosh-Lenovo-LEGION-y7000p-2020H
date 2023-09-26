@@ -6,6 +6,9 @@
 
 <br>
 
+###更新至OpenCore0.9.4之后未出现触摸板失效问题
+###更新至macOS13.5.2后Wi-Fi启动速度(开机后或从睡眠中唤醒后)约为1min(明显变慢)，原因未知
+
 ### 硬件适配 Hardware adaptation
 
 - [x] 触控板 🖱️Trackpad
