@@ -19,7 +19,7 @@
 - [x] CPU 睿频 CPU turbo frequency
 - [x] CPU 温控 CPU temperature control
 - [x] 休眠 睡眠 💤Sleep
-- [x] WiFi&有线网络 🛜WiFi& wired network
+- [x] WiFi&有线网络 🛜WiFi& wired network (开机后不要切换网络连接)
 - [x] Bluetooth ✂️
 - [x] 屏蔽独显NVIDIA RTX2060 🚫Shielded graphic card NVIDIA RTX2060
 - [x] 硬盘（建议使用Tuxera挂载NTFS硬盘）（未屏蔽pm981） 💾drive (Tuxera is recommended to mount NTFS drive) (unmasked pm981)
