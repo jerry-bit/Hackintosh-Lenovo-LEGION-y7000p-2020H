@@ -1,5 +1,5 @@
-# <div><center>电脑坏了，以后不玩黑苹果了，老老实实工作，感谢相遇，感谢大家支持，祝大家新年快乐。</center></div>
-# <div style="text-align: right;">2024年1月1日于郑州</div>
+# <div><center>我还是没能等来Opencore 1.0.0 。前天电脑坏了，以后不玩黑苹果了，老老实实工作，感谢相遇，感谢大家支持，祝大家新年快乐。</center></div>
+# <div align=right>2024年1月1日于郑州</div>
 
 
 <br>
