@@ -1,4 +1,10 @@
-# Hackintosh-Lenovo-LEGION-y7000p-2020H
+# <div><center>电脑坏了，以后不玩黑苹果了，老老实实工作，感谢相遇，感谢大家支持，祝大家新年快乐。</center></div>
+# <div style="text-align: right;">2024年1月1日于郑州</div>
+
+
+<br>
+
+## Hackintosh-Lenovo-LEGION-y7000p-2020H
 ### <a href="https://github.com/xiaoMGitHub/LEGION_Y7000Series_Insyde_Advanced_Settings_Tools/releases" target="_blank"><span style="font-size: 12px">🚀y7000p一键修改BIOS</span></a>
 ## <a href="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/releases" target="_blank"><span style="font-size: 12px">🚀The Latest Version for Ventura13.6.1 - OpenCore v.0.9.7</span></a>
 ### （近期的releases均已添加三码）
