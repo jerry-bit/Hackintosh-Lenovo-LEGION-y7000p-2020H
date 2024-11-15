@@ -41,9 +41,7 @@ CPU: i7-10875H<br>需要自己添加机型信息:)
 <br>
 
 ## DO NOT INSTALL THESE UPDATES
-![屏幕截图 2023-07-25 211439](https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/assets/52237728/44e87396-267d-4ae9-b540-c0c6b59e0a44)
-
-
+BIOS
 
 <br>
 
@@ -64,10 +62,6 @@ You can successfully update to version 13.3.1 through "Settings General Software
 You can successfully update to version 13.3.1 through "Settings General Software Update". After the update, under the original configuration, the Wi Fi startup speed is significantly faster than before (within 30 seconds), and no other issues have been found yet.<br>
 
 
-<div align=center><img src="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/assets/52237728/6b6dd9db-0eb9-4c81-8a00-848f357ae8cd"></div>
-
-
-<div align=center><img src="https://github.com/jerry-bit/Hackintosh-Lenovo-LEGION-y7000p-2020H/assets/52237728/0989aa38-e0ef-4508-b600-375e8ab09d32"></div>
 
 
 
