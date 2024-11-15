@@ -74,5 +74,4 @@ You can successfully update to version 13.3.1 through "Settings General Software
 
 
 <br>
-<div align=center>
-<a href="https://a.iridescent-lrj.xyz/" target="_blank"><center><span style="font-size: 12px">Jerry's HomePage</span></center></a></div>
+
