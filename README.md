@@ -1,4 +1,23 @@
-# 建议停留在Ventura13.7.x，后续macOS在逐步取消对Intel CPU的支持，驱动越发困难(玄学)，且此机型关闭DPTF后会严重影响Windows下的续航及散热。(END)
+# Latest release 适用于macOS Sonoma 14.5 - Sequoia 15.3 
+### 可用功能： ( 玄学 )
+- [x] 触控板 
+- [x] 键盘 
+- [x] 数字小键盘 
+- [x] 内建显示器1920x1080 
+- [x] fn快捷键（屏幕亮度调节可用） 
+- [x] CPU 睿频 
+- [x] CPU 温控 
+- [x] 睡眠
+- [x] WiFi ( itlwm + Heliport )
+- [x] 以太网
+- [x] Bluetooth ( 仅Sonoma下可用; Sequoia暂时无法驱动 )
+- [x] Samsung 970 EVO Plus ( Trim损坏, 兼容性欠佳; 推荐使用WD )
+- [x] USB-A & USB-C
+- [ ] HDMI 
+- [ ] NVIDIA RTX2060
+- [ ] 隔空投送 (未测试)
+
+## [Expired] 建议停留在Ventura13.7.x，后续macOS在逐步取消对Intel CPU的支持，驱动越发困难(玄学)，且此机型关闭DPTF后会严重影响Windows下的续航及散热。(END)
 有实际需求可以购买白果
 <br>
 
