@@ -1,9 +1,9 @@
-# Latest release 适用于macOS Sonoma 14.5 - Sequoia 15.3 ( 仍推荐使用Ventura系列 )
+# Latest release 适用于macOS Sonoma 14.5 - Sequoia 15.4beta ( 仍推荐使用Ventura系列 )
 ### 可用功能： ( 玄学 )
 - [x] 触控板 
 - [x] 键盘 
 - [x] 数字小键盘 
-- [x] 内建显示器1920x1080 
+- [x] 内建显示器1920x1080 ( 开机有概率无法点亮➡️重启即可 )
 - [x] fn快捷键（屏幕亮度调节可用） 
 - [x] CPU 睿频 
 - [x] CPU 温控 
