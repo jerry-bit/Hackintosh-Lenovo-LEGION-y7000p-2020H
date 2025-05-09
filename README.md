@@ -16,6 +16,7 @@
 - [ ] HDMI 
 - [ ] NVIDIA RTX2060
 - [ ] 隔空投送 (未测试)
+- [ ] 
 
 ## [Expired] 建议停留在Ventura13.7.x，后续macOS在逐步取消对Intel CPU的支持，驱动越发困难(玄学)，且此机型关闭DPTF后会严重影响Windows下的续航及散热。(END)
 有实际需求可以购买白果
