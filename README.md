@@ -1,4 +1,5 @@
 <del>
+  
 # Latest release 适用于macOS Sonoma 14.5 - Sequoia 15.4beta ( 仍推荐使用Sonoma系列 )
 ### 可用功能： ( 玄学 )
 - [x] 触控板 
