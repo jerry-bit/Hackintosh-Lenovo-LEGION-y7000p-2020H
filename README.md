@@ -1,3 +1,4 @@
+<del>
 # Latest release 适用于macOS Sonoma 14.5 - Sequoia 15.4beta ( 仍推荐使用Sonoma系列 )
 ### 可用功能： ( 玄学 )
 - [x] 触控板 
@@ -16,7 +17,6 @@
 - [ ] HDMI 
 - [ ] NVIDIA RTX2060
 - [ ] 隔空投送 (未测试)
-- [ ] 
 
 ## [Expired] 建议停留在Ventura13.7.x，后续macOS在逐步取消对Intel CPU的支持，驱动越发困难(玄学)，且此机型关闭DPTF后会严重影响Windows下的续航及散热。(END)
 有实际需求可以购买白果
@@ -84,7 +84,7 @@ You can successfully update to version 13.3.1 through "Settings General Software
 You can successfully update to version 13.3.1 through "Settings General Software Update". After the update, under the original configuration, the Wi Fi startup speed is significantly faster than before (within 30 seconds), and no other issues have been found yet.<br>
 
 
-
+</del>
 
 
 
